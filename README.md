@@ -3,4 +3,6 @@
 
 ### Create a Website that allows users to write down their own ideas that they have in mind.
 
-#### The
+1. The type of License that I will be using is MIT License.
+
+⋅⋅⋅ This license is an open source license that allows others to
