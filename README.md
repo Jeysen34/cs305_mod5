@@ -5,3 +5,5 @@
 
 1. The type of License that I will be using is MIT License.
     * This license is an open source license that allows others to have the freedom to use, modify, and redistribute work. 
+
+1. Added necessary information about myself and followed directions listed in Module 05. 
